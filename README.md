@@ -18,7 +18,6 @@ Work experience, ByteDance(3 years), Alibaba(1 years)
 - iOS & Android crash symbolic & aggregation system
 
 #### Improve Taobao App Performance & Optimize Dev Environments(Alibaba)
-- https://developer.aliyun.com/article/741612
 
 
 
