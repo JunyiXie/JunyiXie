@@ -23,4 +23,4 @@ Work experience, ByteDance(3 years), Alibaba(1 years)
 
 ## Talking with me
 💬 WeChat: beyourselfyii
-招python解释器优化方向实习生，base 北京字节
+招python虚拟机优化方向实习生，base 北京字节
