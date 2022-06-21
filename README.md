@@ -7,8 +7,13 @@ Work experience, ByteDance(3 years), Alibaba(1 years)
 
 ### Projects:
 #### Improve cpython performance
-- Designed and implementation a cpython jit compiler for ARMv7/ARM64
+JIT:
+- Designed and implementation a cpython method based jit compiler for ARM64
+
+Parallel:
 - Optimize cpython runtime support parallel execution.
+
+Binary Size:
 - Optimize cpython binary size.
 
 #### Hotfix for C++/Swift
