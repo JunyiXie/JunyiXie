@@ -11,7 +11,7 @@ JIT:
 - Designed and implementation a method based jit(arm64) compiler for cpython
 
 Parallel:
-- Optimize cpython runtime support parallel execution.
+- Optimize cpython runtime support parallel execution(subinterpreters).
 
 Binary Size:
 - Optimize cpython binary size.
