@@ -3,7 +3,7 @@
 
 Software Engineer 
 
-Work experience, ByteDance(3 years), Alibaba(1 years)
+Work experience, ByteDance, Alibaba
 
 ### Projects:
 #### Improve cpython performance
