@@ -19,8 +19,8 @@ Binary Size:
 #### Hotfix for C++/Swift
 
 #### Designed and implementation bytedance crash reporter system
-- iOS crash reporter
-- iOS & Android crash symbolic & aggregation system
+- Designed and implementation iOS crash reporter
+- Designed and implementation iOS & Android crash symbolic & aggregation system
 
 #### Improve Taobao App Performance & Optimize Dev Environments
 
