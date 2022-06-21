@@ -8,7 +8,7 @@ Work experience, ByteDance, Alibaba
 ### Projects:
 #### Improve cpython performance
 JIT:
-- Designed and implementation a method based jit(arm64) for cpython
+- Designed and implementation a method-based jit(arm64) for cpython
 
 Parallel:
 - Optimize cpython runtime support parallel execution(subinterpreters).
