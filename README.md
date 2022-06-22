@@ -6,7 +6,7 @@ Software Engineer
 Work experience, ByteDance, Alibaba
 
 ### Projects:
-#### Improve cpython performance
+#### Improve cpython performance on mobile devices
 JIT:
 - Designed and implementation a method-based jit(arm64) for cpython
 
