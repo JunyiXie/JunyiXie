@@ -17,6 +17,7 @@ Binary Size:
 - Optimize cpython binary size.
 
 #### Hotfix for C++/Swift
+- Designed and implementation a hookable indirect function dispatch for llvm compiler
 
 #### Designed and implementation bytedance crash reporter system
 - Designed and implementation iOS crash reporter
