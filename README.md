@@ -7,14 +7,14 @@ Work experience, ByteDance, Alibaba
 
 ### Projects:
 #### Improve cpython performance on mobile devices
-**JIT:**
-- Designed and implementation a method-based jit(arm64) for cpython
+  **JIT:**
+  - Designed and implementation a method-based jit(arm64) for cpython
 
-**Parallel:**
-- Optimize cpython runtime support parallel execution(subinterpreters).
+  **Parallel:**
+  - Optimize cpython runtime support parallel execution(subinterpreters).
 
-**Binary Size:**
-- Optimize cpython binary size.
+  **Binary Size:**
+  - Optimize cpython binary size.
 
 #### Hotfix for C++/Swift
 - Designed and implementation a hookable indirect function dispatch for llvm compiler backend
