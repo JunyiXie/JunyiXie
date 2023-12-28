@@ -5,8 +5,8 @@ Software Engineer
 
 Work experience, ByteDance, Alibaba
 
-### Projects:
-#### Improve cpython performance on mobile devices
+## Projects:
+### Improve cpython performance on mobile devices
   JIT:
   - Designed and implementation a method-based jit(arm64) for cpython
 
@@ -16,14 +16,14 @@ Work experience, ByteDance, Alibaba
   Binary Size:
   - Optimize cpython binary size.
 
-#### Hotfix for C++/Swift
+### Hotfix for C++/Swift
 - Designed and implementation a hookable indirect function dispatch for llvm compiler backend
 
-#### Designed and implementation bytedance crash reporter system
+### Designed and implementation bytedance crash reporter system
 - Designed and implementation iOS crash reporter
 - Designed and implementation iOS & Android crash symbolic & aggregation system
 
-#### Improve Taobao App Performance & Optimize Dev Environments
+### Improve Taobao App Performance & Optimize Dev Environments
 
 
 
