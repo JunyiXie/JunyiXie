@@ -16,6 +16,9 @@ Work experience, ByteDance, Alibaba
   Micro PythonVM: 
   - Designed and implementation high performance micro python vm for mobile device.
 
+  AOT Compiler:
+  - Designed and implementation high performance AOT Compiler for python language on mobile device.
+
 ### Hotfix for C++/Swift
 - Designed and implementation a hookable indirect function dispatch for llvm compiler backend
 
