@@ -8,7 +8,7 @@ Work experience, ByteDance, Alibaba
 ## Projects:
 ### Python Virtual Machine
   JIT:
-  - Designed and implementation a method-based jit(arm64) for cpython
+  - Designed and implementation a method-based jit compiler (arm64) for cpython
 
   Parallel:
   - Optimize cpython runtime support parallel execution(subinterpreters).
