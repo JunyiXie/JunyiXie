@@ -13,8 +13,8 @@ Work experience, ByteDance, Alibaba
   Parallel:
   - Optimize cpython runtime support parallel execution(subinterpreters).
 
-  Binary Size:
-  - Optimize cpython binary size.
+  Micro PythonVM: 
+  - Designed and implementation high performance micro python vm for mobile device.
 
 ### Hotfix for C++/Swift
 - Designed and implementation a hookable indirect function dispatch for llvm compiler backend
