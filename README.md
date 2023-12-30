@@ -3,8 +3,8 @@
 ### A Software Engineer in Virtual Machine & Compiler Optimization Fields
 
 #### Professional Experience:
-- **ByteDance**: Python Virtual Machine and C++/Swift Compiler
-- **Alibaba**: Focused on improving app performance and developing crash reporter systems for iOS and Android.
+- **ByteDance**: Python Virtual Machine, C++/Swift Compiler, Crash report and analyse systems.
+- **Alibaba**: Focused on improving app performance.
 
 #### Notable Projects:
 1. **Python Virtual Machine Enhancements**:
