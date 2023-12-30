@@ -8,25 +8,27 @@ Work experience, ByteDance, Alibaba
 ## Projects:
 ### Python Virtual Machine
   JIT:
-  - Designed and implementation a method-based jit compiler (arm64) for cpython
+  - A method-based jit compiler (arm64) for cpython
 
   Parallel:
   - Optimize cpython runtime support parallel execution(subinterpreters).
 
   Micro PythonVM: 
-  - Designed and implementation high performance micro python vm for mobile device.
+  - High performance micro python vm for mobile device.
 
   AOT Compiler:
-  - Designed and implementation high performance AOT Compiler for python language on mobile device.
+  - High performance AOT Compiler for python language on mobile device.
 
 ### Hotfix for C++/Swift
-- Designed and implementation a hookable indirect function dispatch for llvm compiler backend
+- Hookable indirect function dispatch for llvm compiler backend
 
 ### Designed and implementation bytedance crash reporter system
-- Designed and implementation iOS crash reporter
-- Designed and implementation iOS & Android crash symbolic & aggregation system
+- iOS crash reporter
+- iOS & Android crash symbolic & aggregation system
 
 ### Improve Taobao App Performance & Optimize Dev Environments
+- Binary Layout Optimizations System for Taobao iOS App.
+- Auto DarkMode System for iOS App.
 
 
 
