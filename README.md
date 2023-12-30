@@ -19,7 +19,7 @@ Work experience, ByteDance, Alibaba
   AOT Compiler:
   - High performance AOT Compiler for python language on mobile device.
 
-### Hotfix for C++/Swift
+### LLVM Compiler support Hotfix for C++/Swift
 - Hookable indirect function dispatch for llvm compiler backend
 
 ### Designed and implementation bytedance crash reporter system
