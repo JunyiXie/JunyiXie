@@ -23,7 +23,7 @@ Work experience, ByteDance, Alibaba
 - Hookable indirect function dispatch for llvm compiler backend
 
 ### Designed and implementation bytedance crash reporter system
-- iOS crash reporter
+- iOS crash reporter system
 - iOS & Android crash symbolic & aggregation system
 
 ### Improve Taobao App Performance & Optimize Dev Environments
