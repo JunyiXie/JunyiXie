@@ -2,11 +2,11 @@
 
 ### A Software Engineer in Virtual Machine & Compiler Optimization Fields
 
-#### Professional Experience:
+#### Experience:
 - **ByteDance**: Python Virtual Machine, C++/Swift Compiler, Crash report and analyse systems.
 - **Alibaba**: Focused on improving app performance.
 
-#### Notable Projects:
+#### Projects:
 1. **Python Virtual Machine Enhancements**:
    - **JIT Compiler (ARM64)**: Developed a method-based JIT compiler for CPython.
    - **Parallel Execution Support**: Optimized CPython runtime for parallel execution using subinterpreters.
