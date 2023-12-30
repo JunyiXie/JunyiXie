@@ -14,7 +14,7 @@ Work experience, ByteDance, Alibaba
   - Optimize cpython runtime support parallel execution(subinterpreters).
 
   Micro PythonVM: 
-  - High performance micro python vm for mobile device.
+  - Very High performance c++ python vm for mobile device.
 
   AOT Compiler:
   - High performance AOT Compiler for python language on mobile device.
