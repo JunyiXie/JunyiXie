@@ -28,5 +28,5 @@ Work experience, ByteDance, Alibaba
 
 
 ## Talking with me
-💬 WeChat: beyourselfyii
+💬 WeChat: xiejunyiiii
 招 虚拟机 & 编译器优化方向 实习/校招/社招，base 北京字节
