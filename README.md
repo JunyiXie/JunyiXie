@@ -1,37 +1,24 @@
+## ! 👋
 
-## Hi there 👋
+### Software Engineer with Specialization in Virtual Machines & Compiler Optimization
 
-Software Engineer 
+#### Professional Experience:
+- **ByteDance**: Key contributions in Python Virtual Machine and LLVM Compiler support for C++/Swift.
+- **Alibaba**: Focused on improving app performance and developing crash reporter systems for iOS and Android.
 
-Work experience, ByteDance, Alibaba
+#### Notable Projects:
+1. **Python Virtual Machine Enhancements**:
+   - **JIT Compiler (ARM64)**: Developed a method-based JIT compiler for CPython.
+   - **Parallel Execution Support**: Optimized CPython runtime for parallel execution using subinterpreters.
+   - **Micro PythonVM**: Created a high-performance C++ Python VM for mobile devices.
+   - **AOT Compiler**: Developed a high-performance AOT Compiler for Python on mobile devices.
 
-## Projects:
-### Python Virtual Machine
-  JIT:
-  - A method-based jit compiler (arm64) for cpython
+2. **LLVM Compiler Support for Hotfix in C++/Swift**:
+   - Implemented hookable indirect function dispatch in the LLVM compiler backend.
 
-  Parallel:
-  - Optimize cpython runtime support parallel execution(subinterpreters).
+3. **Bytedance Crash Reporter System**:
+   - Designed and implemented crash reporting systems for iOS, and symbolic & aggregation systems for iOS & Android.
 
-  Micro PythonVM: 
-  - Very High performance c++ python vm for mobile device.
-
-  AOT Compiler:
-  - High performance AOT Compiler for python language on mobile device.
-
-### LLVM Compiler support Hotfix for C++/Swift
-- Hookable indirect function dispatch for llvm compiler backend
-
-### Designed and implementation bytedance crash reporter system
-- iOS crash reporter system
-- iOS & Android crash symbolic & aggregation system
-
-### Improve Taobao App Performance & Optimize Dev Environments
-- Binary Layout Optimizations System for Taobao iOS App.
-- Auto DarkMode System for iOS App.
-
-
-
-## Talking with me
-💬 WeChat: xiejunyiiii
-招 虚拟机 & 编译器优化方向 实习/校招/社招，base 北京字节
+4. **Taobao App Performance Enhancement**:
+   - Developed a binary layout optimization system for the Taobao iOS app.
+   - Automated a Dark Mode system for iOS applications.
