@@ -13,7 +13,7 @@
    - **Micro PythonVM**: Created a high-performance C++ Python VM for mobile devices.
    - **AOT Compiler**: Developed a high-performance AOT Compiler for Python on mobile devices.
 
-2. **LLVM Compiler Support for Hotfix in C++/Swift**:
+2. **LLVM Compiler Passes for Hotfix in C++/Swift**:
    - Implemented hookable indirect function dispatch in the LLVM compiler backend.
 
 3. **Bytedance Crash Reporter System**:
