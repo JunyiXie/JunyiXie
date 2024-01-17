@@ -9,7 +9,7 @@
 #### Projects:
 1. **Python Virtual Machine**:
    - **JIT Compiler (ARM64)**: Developed a method-based JIT compiler for CPython.
-   - **Parallel Execution Support**: Optimized CPython runtime for parallel execution using subinterpreters.
+   - **Parallel Execution Support**: Optimized cpython runtime for parallel execution using subinterpreters.
    - **Micro PythonVM**: Created a high-performance C++ Python VM for mobile devices.
    - **AOT Compiler**: Developed a high-performance AOT Compiler for Python on mobile devices.
 
