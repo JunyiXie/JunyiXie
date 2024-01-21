@@ -17,7 +17,7 @@
    - Implemented hookable indirect function dispatch in the LLVM compiler backend.
 
 3. **Bytedance Crash Reporter System**:
-   - Designed and implemented crash reporting system and symbolic & aggregation systems.
+   - Designed and implemented crash reporting system(mach & posix) and symbolic(high concurrency service) & aggregation(distributed) systems.
 
 4. **Taobao App Performance Enhancement**:
    - Developed a binary layout optimization system for the Taobao iOS app.
