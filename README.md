@@ -1,6 +1,6 @@
 ## ! 👋
 
-### A Software Engineer -> Virtual Machine & Compiler Optimization
+### A Software Engineer, Virtual Machine & Compiler Optimization
 
 #### Experience:
 - **ByteDance**: Python Virtual Machine, C++/Swift Compiler, Crash report and analyse systems.
