@@ -1,6 +1,4 @@
 ## ! 👋
-### Quantitative Trading
-startup ......
 
 
 ### A Software Engineer, Virtual Machine & Compiler Optimization
