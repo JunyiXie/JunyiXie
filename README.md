@@ -1,8 +1,8 @@
 ## ! 👋
 
-### Co-founder, focusing on on-chain quantitative trading
-
-### A Software Engineer, Virtual Machine & Compiler Optimization
+### 2024 ~ , Co-founder, Focusing on on-chain quantitative trading
+ 
+### 2019-2024, A Software Engineer, Virtual Machine & Compiler Optimization
 
 #### Experience:
 - **ByteDance**: Python Virtual Machine, C++/Swift Compiler, Crash report and analyse systems.
