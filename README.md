@@ -1,5 +1,6 @@
 ## ! 👋
 
+### Co-founder, focusing on on-chain quantitative trading
 
 ### A Software Engineer, Virtual Machine & Compiler Optimization
 
