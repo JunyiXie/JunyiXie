@@ -6,7 +6,7 @@
 
 #### Experience:
 - **ByteDance**: Python Virtual Machine, C++/Swift Compiler, Crash report and analyse systems.
-- **Alibaba**: Focused on improving app performance.
+- **Alibaba**
 
 #### Projects:
 1. **Python Virtual Machine**:
@@ -21,6 +21,3 @@
 3. **Bytedance Crash Reporter System**:
    - Designed and implemented crash reporting system(mach & posix) and symbolic(high concurrency service) & aggregation(distributed) systems.
 
-4. **Taobao App Performance Enhancement**:
-   - Developed a binary layout optimization system for the Taobao iOS app.
-   - Automated a Dark Mode system for iOS applications.
